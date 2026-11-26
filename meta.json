@@ -1,0 +1,23 @@
+{
+  "repo": "proteus-design-suite-professional-build",
+  "product": "Proteus Design Suite Professional Build",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "proteus-design",
+    "how-to-install-proteus-design",
+    "how-to-setup-proteus-design",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "proteus-design-suite-professional-build",
+    "proteus-for-windows",
+    "proteus-windows-app"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Proteus Design Suite Professional Build"
+}
